@@ -47,8 +47,8 @@ Before you begin, make sure you have the following prerequisites installed on yo
 ### Step 2: Cloning the Repository
 
 - Clone the project repository to your computer
-- ``git clone https://github.com/vbstack-io/fastapi-Twitter``
-- Enter the repository:  ``cd fastapi-Twitter``
+- ``git clone https://github.com/vbstack-io/twitter-fastapi``
+- Enter the repository:  ``cd twitter-fastapi``
 
 ### Step 3: Creating and Activating a Virtual Environment
 
